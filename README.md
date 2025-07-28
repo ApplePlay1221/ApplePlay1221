@@ -1,4 +1,4 @@
 - 👋 Привет, я @ApplePlay1221
 - 👀 Мне интересна веб разработка
-- 🌱 Я сейчас изучаю: html, css, js, python
+- 🌴 Я сейчас изучаю: html, css, js, python
 - 📫 Как со мной связаться: telegram: @wexiwy
